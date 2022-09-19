@@ -890,6 +890,18 @@ h2.summer {
 .sidebarmenu {
     padding: 10px 23px;
 }
+	.box {
+    
+    padding: 23px 74px;
+}
+.form-box button {
+    padding: 11px 11px;
+    
+}
+.form-box input {
+   
+    padding-left: 0px;
+}
 
 .searchbox{
 	display: block;
